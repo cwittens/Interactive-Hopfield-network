@@ -1,5 +1,8 @@
+## If you just want to know, how the Notebook looks like before having to download Julia, you can download and look at the ``Hopfield_network.html`` file beforehand. 
+
 # Interactive-Hopfield-network
 This is an interactive Julia Pluto notebook, where the workings of the Hopfield network are visualized and which easily extendable by training it with new easy to do patterns.  
+
 
 # How to install and open the Pluto Notebook
 
